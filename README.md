@@ -9,7 +9,7 @@ We utilize an entropy-based analysis to identify mutational signatures of SARS-C
 
 ## Report
 We regularly update our report based on the SARS-CoV-2 sequence data from [GISAID](https://www.gisaid.org/) and metadata in [Nextstrain](https://github.com/nextstrain/ncov). You can find the latest version [here](https://github.com/EESI/ISM/blob/master/ISM-report_20200405.ipynb)
-
+![fig 1](world_map.pdf "Subtype composition in different locations")
 ## Reference
 Preprint in BioRxiv [Characterizing geographical and temporal dynamics of novel coronavirus SARS-CoV-2 using informative subtype markers](https://www.biorxiv.org/content/10.1101/2020.04.07.030759v1.article-info)
 If you found our work to be helpful, please cite:
